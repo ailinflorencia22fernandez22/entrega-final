@@ -1,0 +1,66 @@
+[
+    {
+        "id": "1",
+        "nombre": "Jamon y Queso/Verdura",
+        "imagen":"./img/foto1.jpg",
+        "precio": 199,
+        "cantidad": 1
+    },
+    {
+        "id": "2",
+        "nombre": "Crudo",
+        "imagen":"./img/foto2.jpg",
+        "precio": 149,
+        "cantidad": 1
+    },
+    {
+        "id": "3",
+        "nombre": "Paleta y Queso",
+        "imagen":"./img/foto3.jpg",
+        "precio": 203,
+        "cantidad": 1
+    },
+    {
+        "id": "4",
+        "nombre": "Roquefort",
+        "imagen":"./img/foto4.jpg",
+        "precio": 240,
+        "cantidad": 1
+    },
+    {
+        "id": "5",
+        "nombre": "Bondiola",
+        "imagen":"./img/foto5.jpeg",
+        "precio": 196,
+        "cantidad":1
+    },
+    {
+        "id": "6",
+        "nombre": "Ternera y Verdura",
+        "imagen":"./img/foto6.webp",
+        "precio": 197,
+        "cantidad": 1
+    },
+    {
+        "id": "7",
+        "nombre": "Ternera y Queso",
+        "imagen":"./img/foto7.jpg",
+        "precio": 186,
+        "cantidad": 1
+    },
+    {
+        "id": "8",
+        "nombre": "Palta",
+        "imagen":"./img/foto8.jpg",
+        "precio": 250,
+        "cantidad": 1
+    },
+    {
+        "id": "9",
+        "nombre": "Anana",
+        "imagen":"./img/foto10.jpg",
+        "precio": 198,
+        "cantidad":1
+    }
+   
+]
