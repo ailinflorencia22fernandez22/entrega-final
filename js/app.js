@@ -11,7 +11,7 @@ let carrito = JSON.parse(localStorage.getItem("carrito")) || [];
 //funcion asincrona de asyncawait mediante fetch mencionando la ruta de los productos de data.json generando promesas
 
 const getProducts = async () => {
-    const response = await fetch("../data.json");
+    const response = await fetch("./json/data.json");
     const data = await response.json();
     console.log(data);
 
