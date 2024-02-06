@@ -68,3 +68,11 @@ getProducts();
 const saveLocal = () => {
 localStorage.setItem("carrito", JSON.stringify(carrito));
 };
+Swal.fire({
+    title: "¡Hola!",
+    text: "Bien venidos a nuestro emprendimiento.",
+    imageUrl: "./img/logo.png",
+    imageWidth: 400,
+    imageHeight: 200,
+    imageAlt: "Custom image"
+  });

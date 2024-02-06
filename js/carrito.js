@@ -70,7 +70,7 @@ const pintarCarrito = () => {
   
     const totalBuying = document.createElement("div");
     totalBuying.className = "total-content";
-    totalBuying.innerHTML = `total a pagar:€${total}`;
+    totalBuying.innerHTML = `total a pagar:$${total}`;
     modalContainer.append(totalBuying);
   };
    
